@@ -86,3 +86,12 @@ cd Segmentation
 python segment_aneurysm.py
 ```
 The segment result was saved in ./data/result_data/
+
+
+Trained model path
+-----------
+
+Trained models were saved in   
+2227/cmach-data/marui/BIBM/Detection/data/imagenet_weights/res101.pth     
+2227/cmach-data/marui/BIBM/Detection/output/res101/voc_2007_trainval/default/res101_faster_rcnn_iter_80000.pth          
+2227/cmach-data/marui/BIBM/Segmentation/ckpts/model_epoch_500.pth  
